@@ -48,7 +48,7 @@ _These serve as foundational modules for larger systems like the Adhan Clock and
 **Tools:** ESP-IDF, Git/GitHub, KiCad, Logic Analyzer, Oscilloscope  
 **Boosters:** GitHub Copilot, ChatGPT (productivity & exploration)
 
-🔗 **Repo:** [BlindSight](https://github.com/ahmediftiak/ESP32-projects)
+🔗 **Repo:** [ESP32 Projects](https://github.com/ahmediftiak/ESP32-projects)
 
 ---
 
