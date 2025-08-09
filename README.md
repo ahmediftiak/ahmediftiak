@@ -28,7 +28,7 @@
 - Designed for **motorbike rear-traffic awareness**
 - _Firmware refactor in progress for improved modularity_
 
-🔗 **Repo:** [BlindSight](https://github.com/dwang312/Blind-Sight)
+🔗 **Repo:** [BlindSight](https://github.com/dwang312/Blind-Sight) | [Rear-Sight](https://github.com/ahmediftiak/Rear-Sight)
 
 ---
 
@@ -47,6 +47,8 @@ _These serve as foundational modules for larger systems like the Adhan Clock and
 **MCUs/Platforms:** ESP32, AVR, Raspberry Pi  
 **Tools:** ESP-IDF, Git/GitHub, KiCad, Logic Analyzer, Oscilloscope  
 **Boosters:** GitHub Copilot, ChatGPT (productivity & exploration)
+
+🔗 **Repo:** [BlindSight](https://github.com/ahmediftiak/ESP32-projects)
 
 ---
 
